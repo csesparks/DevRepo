@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+endpointApiVersion=31.0
+endpointEnvironment=Other (Specify)
+endpointServer=ap5.salesforce.com
+httpsProtocol=true
+ideVersion=31.0
+keependpoint=false
+metadataFormatVersion=31.0
+namespacePrefix=
+packageName=unpackaged
+preferToolingDeployment=true
+projectIdentifier=IDE-977294389191226099
+readTimeout=400
+username=gitanalysis@techm.com
